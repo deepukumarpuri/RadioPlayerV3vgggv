@@ -46,7 +46,7 @@ async def search(client, query):
         answers.append(
             InlineQueryResultArticle(
                 title="BOT CHANNEL",
-                thumb_url="https://telegra.ph/file/4e839766d45935998e9c6.jpg",
+                thumb_url="https://telegra.ph/file/ed4b7c4e5e4ca5ce97930.jpg",
                 input_message_content=InputTextMessageContent(f"{REPLY_MESSAGE}\n\n<b>© Powered By : \n@DKBOTZ 👑</b>", disable_web_page_preview=True),
                 reply_markup=InlineKeyboardMarkup(buttons)
                 )
