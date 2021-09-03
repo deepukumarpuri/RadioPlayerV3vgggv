@@ -193,8 +193,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("SUPPORT GROUP", url="https://t.me/DK_BOTZ"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/AsmSafone/RadioPlayerV3"),
+                InlineKeyboardButton("MORE BOTS", url="https://t.me/DKBOTZ/300"),
+                InlineKeyboardButton("DEVELOPER", url="https://t.me/DKBOTZHELP"),
             ],
             [
                 InlineKeyboardButton("CLOSE MENU", callback_data="close"),
@@ -224,12 +224,12 @@ async def start(client, message):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/SafoTheBot"),
+                InlineKeyboardButton("BOT CHANNEL", url="https://t.me/DKBOTZ"),
+                InlineKeyboardButton("SUPPORT GROUP", url="https://t.me/DK_BOTZ"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/AsmSafone/RadioPlayerV3"),
+                InlineKeyboardButton("MORE BOTS", url="https://t.me/DKBOTZ/300"),
+                InlineKeyboardButton("DEVELOPER", url="https://t.me/DKBOTZHELP"),
             ],
             [
                 InlineKeyboardButton("❔ HOW TO USE ❔", callback_data="help"),
@@ -249,12 +249,12 @@ async def help(client, message):
                 InlineKeyboardButton("SEARCH SONGS INLINE", switch_inline_query_current_chat=""),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/SafoTheBot"),
+                InlineKeyboardButton("CHANNEL", url="https://t.me/DKBOTZ"),
+                InlineKeyboardButton("SUPPORT", url="https://t.me/DK_BOTZ"),
             ],
             [
-                InlineKeyboardButton("MORE BOTS", url="https://t.me/AsmSafone/173"),
-                InlineKeyboardButton("SOURCE CODE", url="https://github.com/AsmSafone/RadioPlayerV3"),
+                InlineKeyboardButton("MORE BOTS", url="https://t.me/DKBOTZ/300"),
+                InlineKeyboardButton("DEVELOPER", url="https://t.me/DKBOTZHELP"),
             ],
             [
                 InlineKeyboardButton("CLOSE MENU", callback_data="close"),
